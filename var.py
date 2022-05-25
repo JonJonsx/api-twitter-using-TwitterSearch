@@ -1,0 +1,5 @@
+API_KEY = "mGTKqetXVZ9HptUkS0DPIgKmW"
+API_KEY_SECRET = "o6MHWuLkcpi1DuRMoW3lAzcvqDTMKOqjHw4VuHPuK5yGrihiw9"
+ACCESS_TOKEN = "760974103700463616-RRBASdzhiSeUzunMf9rn2qyTTxoBrXl"
+ACCESS_TOKEN_SECRET = "1s4opsibwUcZYcbcwRvU9P0Vzq9tcAnHJruQvTJpAXSf0"
+# curl "https://api.twitter.com/2/users/by/username/$JonJonsx" - H "Authorization: Bearer $760974103700463616-BpC44xN7PRBmsEY6uOdC6rGkgVB1UvK"
